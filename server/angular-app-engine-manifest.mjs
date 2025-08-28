@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/',
+  basePath: 'https://crawlcomply.com',
   supportedLocales: {
   "en-US": ""
 },
