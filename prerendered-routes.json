@@ -3,6 +3,10 @@
     "/": {},
     "/faq": {},
     "/login": {},
-    "/profile": {}
+    "/org": {},
+    "/profile": {},
+    "/repo": {},
+    "/repo_history": {},
+    "/run_history": {}
   }
 }

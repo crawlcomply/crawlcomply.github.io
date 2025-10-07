@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{T as o}from"./chunk-GRB25Q3Z.mjs";var n=(()=>{class e{_listeners=[];notify(t,r){for(let i of this._listeners)i(t,r)}listen(t){return this._listeners.push(t),()=>{this._listeners=this._listeners.filter(r=>t!==r)}}ngOnDestroy(){this._listeners=[]}static \u0275fac=function(r){return new(r||e)};static \u0275prov=o({token:e,factory:e.\u0275fac,providedIn:"root"})}return e})();export{n as a};

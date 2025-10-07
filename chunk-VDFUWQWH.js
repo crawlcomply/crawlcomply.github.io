@@ -1,0 +1,1 @@
+import{Ab as i,Bb as r,Ub as s,bb as o}from"./chunk-C7JI5ICO.js";var p=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-repo-history"]],decls:2,vars:0,template:function(e,a){e&1&&(i(0,"p"),s(1,"repo-history works!"),r())},encapsulation:2})};export{p as RepoHistory};
